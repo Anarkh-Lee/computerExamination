@@ -1,7 +1,5 @@
 package com.anarkh.examination;
 
-import java.sql.Array;
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**
